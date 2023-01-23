@@ -1,2 +1,9 @@
 # The-Wallflowers
-chatbot oriented web app for overall support for mental health and safety.
+
+This proposed website aims to provide a comprehensive and user-friendly platform for individuals dealing with depression, anxiety, and other mental health issues. The website features a chatbot that offers non-judgmental support, a self-help section that includes resources such as affirmation generators, book, movie, and podcast recommendations, and articles on successful recoveries and coping strategies. Additionally, the website includes an urgent help section with contact information for health professionals and consultants. The website emphasizes the importance of self-love and community building, and aims to provide a safe and supportive environment for individuals in need.
+
+The website is designed with the goal of providing individuals with a variety of resources that can help them improve their mental health. The self-help section will provide a range of tools, such as affirmations, recommendations, and articles, that can be beneficial to different people. The urgent help section will provide contact information for mental health professionals and consultants, making it easy for individuals to find help in case of a crisis.
+
+It is important to note that the website is not intended to replace professional help, but rather to complement it. The website will encourage users to seek professional help if they are in crisis. This website will be designed in collaboration with mental health professionals to ensure that the information and resources provided are accurate and helpful.
+
+In conclusion, this proposed website has the potential to be a valuable resource for individuals dealing with mental health issues. The comprehensive and user-friendly platform will provide a range of resources that can help individuals improve their mental health, and the emphasis on self-love and community building will create a safe and supportive environment.
